@@ -1,2 +1,2 @@
 # Hospitality-Project
-
+The **Hospitality** project focused on analyzing key performance metrics such as total revenue, occupancy, cancellation rate, total bookings, and capacity utilization. It involved comprehensive trend analysis of weekday and weekend revenue, booking patterns, and revenue distribution by state, hotel, and class. The project also examined checked-out, canceled, and no-show bookings while identifying key weekly trends in revenue, total bookings, and occupancy. Additionally, it provided insights into demand forecasting, customer behavior, and operational efficiency, helping optimize resource allocation and enhance overall business performance.

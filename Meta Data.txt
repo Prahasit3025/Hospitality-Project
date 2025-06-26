@@ -1,0 +1,12 @@
+Show ID: Unique identifier for each title.
+Title: Name of the show or movie.
+Type: Indicates whether the content is a Movie or TV Show.
+Director: Name(s) of the director(s); may be blank for some entries.
+Cast: Lead actors; comma-separated values; may be blank.
+Country: Country of origin or availability; can contain multiple countries.
+Date Added: The date the content was added to Netflix.
+Release Year: The year the content was originally released.
+Rating: Content rating (e.g., PG-13, TV-MA, R).
+Duration: For movies – time in minutes (e.g., "90 min"); for shows – number of seasons (e.g., "2 Seasons").
+Listed In: Genres or categories (e.g., "Dramas, Crime Shows").
+Description: Short summary or synopsis of the content.
